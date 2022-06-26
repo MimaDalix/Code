@@ -1,2 +1,2 @@
 # Code
-Compilation of codes
+A bunch of Machine Learning project related to healthcare
